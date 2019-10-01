@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Empirical Evaluation of Management Practices I
+## University of Cologne
+### Winter 2019/20
+### Prof. Dr. Dirk Sliwka, Lea Petters and Jesper Armouti-Hansen
 
-You can use the [editor on GitHub](https://github.com/jeshan49/EEMP2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Organizational issues
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course content
+_Note: content will become available sequentially as the time of session approaches._
+- Part 1: [Introduction to Python](https://raw.githubusercontent.com/jeshan49/eemp2/master/L1.pdf)
+- Part 2: [Introduction to Empirical Evaluation of Management Practices](https://raw.githubusercontent.com/jeshan49/eemp2/master/L2.pdf)
+- Part 3: [Regression Essentials](https://raw.githubusercontent.com/jeshan49/eemp2/master/L3.pdf)
+- Part 4: [Statistical Tests](https://raw.githubusercontent.com/jeshan49/eemp2/master/L3.pdf)
+- Part 5: [Predictions and Machine Learning](https://raw.githubusercontent.com/jeshan49/eemp2/master/L4.pdf)
+- Part 6: [Regression and Causality](https://raw.githubusercontent.com/jeshan49/eemp2/master/L5.pdf)
+- Part 7: [Using Panel Data](https://raw.githubusercontent.com/jeshan49/eemp2/master/L6.pdf)
+- Part 8: [Statistical Power](https://raw.githubusercontent.com/jeshan49/eemp2/master/L6.pdf)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jeshan49/EEMP2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Data
+- [Advertising](https://raw.githubusercontent.com/jeshan49/eemp2/master/Advertising2.csv)
+- [Default](https://raw.githubusercontent.com/jeshan49/eemp2/master/Default.csv)
+- [Credit](https://raw.githubusercontent.com/jeshan49/eemp2/master/Credit.csv)
+- [Carseats](https://raw.githubusercontent.com/jeshan49/eemp2/master/Carseats.csv)
+- [Boston](https://raw.githubusercontent.com/jeshan49/eemp2/master/Boston.csv)
+- [bb](https://raw.githubusercontent.com/jeshan49/eemp2/master/ind.pdf), [cc](https://raw.githubusercontent.com/jeshan49/eemp2/master/demo.html)
