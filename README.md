@@ -1,7 +1,7 @@
-# Empirical Evaluation of Management Practices I
-## University of Cologne
-### Winter 2019/20
-### Prof. Dr. Dirk Sliwka, Lea Petters and Jesper Armouti-Hansen
+## Empirical Evaluation of Management Practices I
+### University of Cologne
+#### Winter 2019/20
+#### Prof. Dr. Dirk Sliwka, Lea Petters and Jesper Armouti-Hansen
 
 ### Organizational issues
 
