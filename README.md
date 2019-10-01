@@ -14,7 +14,7 @@ _Prof. Dr. Dirk Sliwka, Lea Petters and Jesper Armouti-Hansen_
 ### Course content
 _Note: content will become available sequentially as the time of session approaches._
 - Part 1: [Introduction to Python](https://raw.githubusercontent.com/jeshan49/EEMP2019/master/content/part-1/L1.pdf)
-- Part 2: [Introduction to Empirical Evaluation of Management Practices](https://raw.githubusercontent.com/jeshan49/EEMP2019/master/content/part-1/part2.pdf)
+- Part 2: [Introduction to Empirical Evaluation of Management Practices](https://raw.githubusercontent.com/jeshan49/EEMP2019/master/content/part-2/part2.pdf)
 - Part 3: [Regression Essentials](https://raw.githubusercontent.com/jeshan49/eemp2/master/L3.pdf)
 - Part 4: [Statistical Tests](https://raw.githubusercontent.com/jeshan49/eemp2/master/L3.pdf)
 - Part 5: [Predictions and Machine Learning](https://raw.githubusercontent.com/jeshan49/eemp2/master/L4.pdf)
