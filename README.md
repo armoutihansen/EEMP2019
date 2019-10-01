@@ -13,14 +13,14 @@ _Prof. Dr. Dirk Sliwka, Lea Petters and Jesper Armouti-Hansen_
 
 ### Course content
 _Note: content will become available sequentially as the time of session approaches._
-- Part 1: [Introduction to Python]
+- Part 1: [Introduction to Python](.)
 - Part 2: [Introduction to Empirical Evaluation of Management Practices](content/part-2/part2.pdf)
 - Part 3: [Regression Essentials](content/part-3/part3.pdf)
 - Part 4: [Statistical Tests](content/part-4/part4.pdf)
-- Part 5: [Predictions and Machine Learning]
-- Part 6: [Regression and Causality]
-- Part 7: [Using Panel Data]
-- Part 8: [Statistical Power]
+- Part 5: [Predictions and Machine Learning](.)
+- Part 6: [Regression and Causality](.)
+- Part 7: [Using Panel Data](.)
+- Part 8: [Statistical Power](.)
 
 
 ### Literature
