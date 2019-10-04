@@ -32,13 +32,11 @@ _Note: content will become available sequentially as the time of session approac
 
 -   **Main literature**
     -   Mostly Harmless Econometrics [Angrist, Pischke]
-    -   An Introduction to Statistical Learning with Applications in R [James, Witten, Hastie, Tibshirani]
-        -   [link](https://www-bcf.usc.edu/~gareth/ISL/)
+    -   [An Introduction to Statistical Learning with Applications in R](https://www-bcf.usc.edu/~gareth/ISL/) [James, Witten, Hastie, Tibshirani]
 -   **Additional literature:**
     -   Mastering Metrics: The Path from Cause to Effect [Angrist, Pischke]
     -   Introductory Econometrics: A Modern Approach [Wooldridge]
-    -   The Elements of Statistical Learning - Data Mining, Inference, and Prediction [Hastie, Tibshirani, Friedman]
-        -   [link](https://web.stanford.edu/~hastie/ElemStatLearn/)
+    -   [The Elements of Statistical Learning - Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) [Hastie, Tibshirani, Friedman]
     -   Hands-On Machine Learning with Scikit-Learn & Tensorflow [Géron]
     -   Python for Data Analysi [McKinney]
     -   Applied Predictive Modeling [Kuhn, Johnson]
@@ -46,9 +44,5 @@ _Note: content will become available sequentially as the time of session approac
 
 ### Data
 
--   [Advertising](https://raw.githubusercontent.com/jeshan49/eemp2/master/Advertising2.csv)
--   [Default](https://raw.githubusercontent.com/jeshan49/eemp2/master/Default.csv)
--   [Credit](https://raw.githubusercontent.com/jeshan49/eemp2/master/Credit.csv)
--   [Carseats](https://raw.githubusercontent.com/jeshan49/eemp2/master/Carseats.csv)
--   [Boston](https://raw.githubusercontent.com/jeshan49/eemp2/master/Boston.csv)
--   [bb](https://raw.githubusercontent.com/jeshan49/eemp2/master/ind.pdf), [cc](https://raw.githubusercontent.com/jeshan49/eemp2/master/demo.html)
+-   [Employee dataset](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+-   [Ockenfels/Sliwka/Werner (2015)](https://raw.githubusercontent.com/dsliwka/bms/master/libraryExpData.csv)
