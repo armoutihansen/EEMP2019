@@ -18,7 +18,7 @@ _Prof. Dr. Dirk Sliwka, Lea Petters and Jesper Armouti-Hansen_
 
 _Note: content will become available sequentially as the time of session approaches._
 
--   Part 1: [Introduction to Python - slides](https://github.com/lemepe/EEMP/blob/master/python_intro/EEMP_python_intro_slides.ipynb) ([filled jupyter notebook](https://github.com/lemepe/EEMP/blob/master/python_intro/EEMP_python_intro.ipynb), [py-file](https://github.com/lemepe/EEMP/blob/master/python_intro/EEMP_python_intro.py), [pdf](https://github.com/lemepe/EEMP/blob/master/python_intro/EEMP_python_intro.pdf))
+-   Part 1: [Introduction to Python - slides](https://github.com/lemepe/EEMP/blob/master/python_intro/EEMP_python_intro_slides.ipynb) ([filled jupyter notebook](https://github.com/lemepe/EEMP/blob/master/python_intro/EEMP_python_intro.ipynb), [py-file](https://raw.githubusercontent.com/lemepe/EEMP/master/python_intro/EEMP_python_intro.py), [pdf](https://github.com/lemepe/EEMP/blob/master/python_intro/EEMP_python_intro.pdf))
     - [Quiz](https://github.com/lemepe/EEMP/blob/master/python_intro/EEMP_quiz.ipynb)
 -   Part 2: [Introduction to Empirical Evaluation of Management Practices](content/part-2/part2.pdf)
 -   Part 3: [Regression Essentials](content/part-3/part3.pdf)
