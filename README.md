@@ -11,7 +11,7 @@ _Prof. Dr. Dirk Sliwka, Lea Petters and Jesper Armouti-Hansen_
 -   Sessions take place on _Mondays (14:00-15:30, 16:00-17:30)_ and _Tuesdays (10:00-11:30)_ in the first term if the semester.
 -   Please note that _all_ sessions will take place in _room 3.206 (SSC building)_ until further notice.
 -   **Exam dates:**
-    -   _1st: TBA_
+    -   _1st: 02.12.2019, 14:00 - 15:30_
     -   _2nd: TBA_
 
 ### Course content
