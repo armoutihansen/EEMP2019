@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1570190681 "part4.tex" "part4.pdf" "part4" 1570191815
+["pdflatex"] 1570190681 "part4.tex" "part4.pdf" "part4" 1570194616
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1136768653 1316 b636689f1933f24d1294acdf6041daaa ""
@@ -162,10 +162,10 @@
   "part4.out" 1570190681 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "part4.tex" 1570190379 712 e83d8a79ca475848cebfc65426eb1739 ""
   (generated)
+  "part4.nav"
+  "part4.snm"
   "part4.toc"
   "part4.aux"
-  "part4.nav"
   "part4.out"
-  "part4.pdf"
   "part4.log"
-  "part4.snm"
+  "part4.pdf"

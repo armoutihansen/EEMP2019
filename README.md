@@ -44,5 +44,5 @@ _Note: content will become available sequentially as the time of session approac
 
 ### Data
 
--   [Employee dataset](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+-   [Employee dataset](https://raw.githubusercontent.com/lemepe/EEMP/master/python_intro/Employee_data.csv)
 -   [Ockenfels/Sliwka/Werner (2015)](https://raw.githubusercontent.com/dsliwka/bms/master/libraryExpData.csv)
