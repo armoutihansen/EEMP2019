@@ -20,7 +20,7 @@ _Note: content will become available sequentially as the time of session approac
 
 -   Part 1: [Introduction to Python - slides](https://github.com/lemepe/EEMP/blob/master/python_intro/EEMP_python_intro_slides.ipynb) ([filled jupyter notebook](https://github.com/lemepe/EEMP/blob/master/python_intro/EEMP_python_intro.ipynb), [py-file](https://raw.githubusercontent.com/lemepe/EEMP/master/python_intro/EEMP_python_intro.py), [pdf](https://github.com/lemepe/EEMP/blob/master/python_intro/EEMP_python_intro.pdf))
     - [Quiz](https://github.com/lemepe/EEMP/blob/master/python_intro/EEMP_quiz.ipynb)
-        - [Quiz Solution](https://github.com/lemepe/EEMP/blob/master/python_intro/EEMP_quiz_answers.ipynb)
+        - [Solution](https://github.com/lemepe/EEMP/blob/master/python_intro/EEMP_quiz_answers.ipynb)
 -   Part 2: [Introduction to Empirical Evaluation of Management Practices](content/part-2/part2.pdf)
 -   Part 3: [Regression Essentials](content/part-3/part3.pdf)
 -   Part 4: [Statistical Tests](content/part-4/part4.pdf)
