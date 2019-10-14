@@ -32,6 +32,7 @@ _Note: content will become available sequentially as the time of session approac
 ### Updates
 
 - Part 1-4: [updates slides](https://github.com/dsliwka/bms/blob/master/part1to4update.pdf)
+- [Notebook to start with](https://github.com/dsliwka/bms/blob/master/Start.ipynb)
 
 
 ### Literature
