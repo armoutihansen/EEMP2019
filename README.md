@@ -28,6 +28,12 @@ _Note: content will become available sequentially as the time of session approac
 -   Part 7: [Using Panel Data](.)
 -   Part 8: [Statistical Power](.)
 
+
+### Updates
+
+- Part 1-4: [updates slides](https://github.com/dsliwka/bms/blob/master/part1to4update.pdf)
+
+
 ### Literature
 
 -   **Main literature**
