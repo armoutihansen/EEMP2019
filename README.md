@@ -28,7 +28,7 @@ _Note: content will become available sequentially as the time of session approac
 -   Part 7: [Using Panel Data](.)
 -   Part 8: [Statistical Power](.)
 
-Note: In case you have troubles to load the respective notebook on Github, try to use the [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/) to display the files.
+**Note:** In case you have troubles to load the respective notebook on Github, try to use the [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/) to display the files.
 
 
 ### Updates
