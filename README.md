@@ -55,5 +55,4 @@ _Note: content will become available sequentially as the time of session approac
 
 -   [Employee dataset](https://raw.githubusercontent.com/lemepe/EEMP/master/python_intro/Employee_data.csv)
 -   [Ockenfels/Sliwka/Werner (2015)](https://raw.githubusercontent.com/dsliwka/bms/master/libraryExpData.csv)
--   [Management practices](https://github.com/dsliwka/bms/blob/master/AMP_Data.csv)
 -   [Default](https://raw.githubusercontent.com/jeshan49/EEMP2019/master/content/part-5/part-5-1/Default.csv)
