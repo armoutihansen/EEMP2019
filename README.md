@@ -12,7 +12,7 @@ _Prof. Dr. Dirk Sliwka, Lea Petters and Jesper Armouti-Hansen_
 -   Please note that _all_ sessions will take place in _room 3.206 (SSC building)_ until further notice.
 -   **Exam dates:**
     -   _1st: 02.12.2019, 14:00 - 15:30_
-    -   _2nd: TBA_
+    -   _2nd: 11.02.2020, 10:00 - 11:30_
 
 ### Course content
 
@@ -23,7 +23,7 @@ _Note: content will become available sequentially as the time of session approac
 -   Part 2: [Introduction to Empirical Evaluation of Management Practices](content/part-2/part2.pdf)
 -   Part 3: [Regression Essentials](content/part-3/part3.pdf)
 -   Part 4: [Statistical Tests](content/part-4/part4.pdf)
--   Part 5: [Predictions and Machine Learning](https://nbviewer.jupyter.org/github/jeshan49/EEMP2019/blob/master/content/part-5/sl2.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeshan49/EEMP2019/master?filepath=https%3A%2F%2Fgithub.com%2Fjeshan49%2FEEMP2019%2Fblob%2Fmaster%2Fcontent%2Fpart-5%2Fsl2.ipynb)
+-   Part 5: [Predictions and Machine Learning](https://nbviewer.jupyter.org/github/jeshan49/EEMP2019/blob/master/content/part-5/sl2.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeshan49/EEMP2019/a590f29696b637a4edbda5aae945260e24251022)
 -   Part 6: [Regression and Causality](.)
 -   Part 7: [Using Panel Data](.)
 -   Part 8: [Statistical Power](.)
