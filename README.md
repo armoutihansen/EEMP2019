@@ -13,7 +13,7 @@ _Prof. Dr. Dirk Sliwka, Lea Petters and Jesper Armouti-Hansen_
 -   **Exam dates:**
     -   _1st: 02.12.2019, 14:00 - 15:30_
     -   _2nd: 11.02.2020, 10:00 - 11:30_
-- **Mock Exam:** Availaible [here](https://nbviewer.jupyter.org/github/jeshan49/EEMP2019/blob/master/content/mock_211119.ipynb)
+- **Mock Exam:** Availaible [here](https://nbviewer.jupyter.org/github/jeshan49/EEMP2019/blob/master/content/mock_211119.ipynb), (Partial) solutions available [here](https://nbviewer.jupyter.org/github/jeshan49/EEMP2019/blob/master/content/mock_211119_answers.ipynb)
 
 ### Course content
 
